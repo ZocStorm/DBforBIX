@@ -6,3 +6,5 @@ This is DBforBIX version 3.0 customized for use on Centos 7 (it probably works o
 Untar the archive in /opt directory
 
 Copy init.d or system.d startup script
+
+More setup instructions at... http://www.smartmarmot.com/wiki/index.php?title=DBforBIX
