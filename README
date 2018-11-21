@@ -1,0 +1,8 @@
+# DBforBIX
+DBforBIX for Centos7
+
+This is DBforBIX version 3.0 customized for use on Centos 7 (it probably works on Centos 6)
+
+Untar the archive in /opt directory
+
+Copy init.d or system.d startup script
